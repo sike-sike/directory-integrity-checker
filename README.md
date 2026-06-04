@@ -2,7 +2,7 @@
 
 ## Fetching the repository
 ```
-git clone http://github.com/sike-sike/directory-integrity-checker.git
+git clone https://github.com/sike-sike/directory-integrity-checker.git
 ```
 
 ## Signing Key availability
