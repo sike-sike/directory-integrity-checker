@@ -1,0 +1,11 @@
+export GPG_HOME='./test/test-artifacts/.gnupg'
+
+export FILE_TO_SIGN="./test/test-artifacts/test-dir/manifest.sha256"
+export FILE_TO_VERIFY="./test/test-artifacts/test-dir/manifest.sha256"
+export SIG_FILE="./test/test-artifacts/test-dir/maniest.sha256.gpg"
+
+export PUBKEY_FILE="./test/test-artifacts/test-dir/pubkey.gpg"
+export PUBKEY_FINGERPRINT=
+
+SIGN_SUCCESS=0
+VERIFY_SUCCESS=0
